@@ -1,1 +1,1 @@
-# test
+echo "Hello GitHub!" > hello.txt
